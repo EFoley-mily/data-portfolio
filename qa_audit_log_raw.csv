@@ -1,0 +1,81 @@
+task_id,annotator,status,score,submitted_date,review_round
+TASK-0041,p.Scully,Fail,,2025-01-27,1st
+,d.Brooklyn,fail,0.23,05/24/2025,
+TASK-0042,D.BROOKLYN,fail,n/a,01/02/2025,
+TASK-0028,B.Wayne,fail,n/a,2025-01-27,one
+TASK-0007,Preston.Scully,Fail,999,2025-05-18,one
+TASK-0006,Dan.Brooklyn,pending,0.58,01/12/2025,3
+TASK-0006,Dan.Brooklyn,Pass,999,12-06-2025,2
+TASK-0024,p.Scully,Fail,0.7,06/05/2025,1st
+TASK-0047,D.BROOKLYN,PENDING,,25-06-2025,1
+TASK-0015,Dan.Brooklyn,pending,0.4,24-02-2025,2
+TASK-0042,p.Scully,escalated,,05-03-2025,
+TASK-0038,bryce.Wayne,PENDING,,"May 11, 2025",1
+,d.Brooklyn,PASS,999,2025-06-02,one
+TASK-0025,D.BROOKLYN,,0.25,2025-06-24,
+TASK-0035,Dan.Brooklyn,pending,999,"February 10, 2025",1
+TASK-0047,Preston.Scully,,0.76,10-06-2025,
+TASK-0033,B.Wayne,pending,0.76,03-06-2025,one
+TASK-0002,Preston.Scully,Fail,,2025-05-26,1
+TASK-0047,d.Brooklyn,,,"June 18, 2025",1st
+TASK-0011,Dan.Brooklyn,PENDING,,"March 21, 2025",
+TASK-0042,bryce.Wayne,escalated,,17-01-2025,1
+TASK-0038,bryce.Wayne,fail,0.01,2025-02-28,1
+TASK-0022,B.Wayne,Fail,,05/19/2025,
+TASK-0037,B.Wayne,escalated,,2025-01-25,
+TASK-0028,D.BROOKLYN,escalated,0.86,2025-06-22,1
+TASK-0026,Dan.Brooklyn,Pass,,"May 18, 2025",2
+TASK-0028,D.BROOKLYN,fail,0.87,2025-04-24,1
+TASK-0042,Dan.Brooklyn,pass,,"February 12, 2025",one
+TASK-0031,D.BROOKLYN,pass,0.16,10-04-2025,one
+TASK-0019,p.Scully,,999,02/09/2025,3
+TASK-0014,bryce.Wayne,,n/a,2025-01-15,1st
+TASK-0031,Dan.Brooklyn,,0.16,2025-02-17,1st
+TASK-0005,B.Wayne,PENDING,,2025-05-29,1st
+TASK-0006,bryce.Wayne,,n/a,22-02-2025,2
+TASK-0017,p.Scully,Fail,0.46,"January 03, 2025",1st
+TASK-0037,d.Brooklyn,,n/a,03-02-2025,1
+TASK-0016,B.Wayne,escalated,n/a,2025-06-06,
+TASK-0036,p.Scully,Pass,,2025-03-09,1
+TASK-0048,Preston.Scully,Fail,n/a,22-02-2025,1st
+TASK-0032,Dan.Brooklyn,pass,999,2025-03-12,1
+TASK-0022,p.Scully,Fail,999,"May 22, 2025",1st
+TASK-0001,p.Scully,PASS,n/a,05/30/2025,one
+,Preston.Scully,pass,,06/24/2025,
+TASK-0007,bryce.Wayne,PENDING,,03/02/2025,2
+,p.Scully,pending,999,06/21/2025,3
+TASK-0011,d.Brooklyn,PENDING,999,02/26/2025,one
+TASK-0023,Dan.Brooklyn,fail,,13-04-2025,3
+TASK-0005,Preston.Scully,pending,999,23-06-2025,1
+TASK-0008,Preston.Scully,PASS,n/a,2025-01-10,1st
+TASK-0028,Dan.Brooklyn,pending,0.44,04/09/2025,3
+TASK-0003,d.Brooklyn,,,"April 04, 2025",1
+TASK-0043,bryce.Wayne,pending,0.66,18-03-2025,
+TASK-0027,p.Scully,Fail,,"April 18, 2025",
+TASK-0048,bryce.Wayne,Fail,0.41,19-03-2025,2
+TASK-0028,bryce.Wayne,pending,999,06/22/2025,1st
+TASK-0031,Dan.Brooklyn,PASS,n/a,12-05-2025,1
+TASK-0049,Preston.Scully,fail,,2025-01-07,2
+TASK-0031,Dan.Brooklyn,Pass,,"June 28, 2025",one
+TASK-0026,p.Scully,pass,0.89,04/19/2025,2
+TASK-0045,d.Brooklyn,,0.25,04/27/2025,one
+TASK-0043,bryce.Wayne,pending,999,"June 06, 2025",1st
+TASK-0029,p.Scully,escalated,,13-06-2025,1st
+TASK-0032,Preston.Scully,escalated,n/a,02-03-2025,3
+TASK-0021,d.Brooklyn,PASS,999,06/27/2025,
+TASK-0014,D.BROOKLYN,pending,999,01/16/2025,one
+TASK-0025,bryce.Wayne,pass,999,2025-05-03,3
+TASK-0020,Dan.Brooklyn,PENDING,,05/05/2025,3
+TASK-0028,D.BROOKLYN,pending,999,"February 12, 2025",2
+TASK-0040,D.BROOKLYN,pass,999,"February 04, 2025",2
+TASK-0004,Preston.Scully,fail,n/a,08-04-2025,one
+TASK-0017,D.BROOKLYN,pass,0.75,03/31/2025,
+TASK-0005,p.Scully,pass,,2025-02-21,1st
+TASK-0010,D.BROOKLYN,Pass,,30-04-2025,3
+TASK-0011,p.Scully,Pass,,2025-03-21,1st
+TASK-0002,bryce.Wayne,PENDING,,01/20/2025,1
+TASK-0045,Dan.Brooklyn,Pass,0.8,"March 30, 2025",
+TASK-0024,p.Scully,pending,999,2025-05-06,one
+TASK-0024,Dan.Brooklyn,escalated,999,15-02-2025,1st
+TASK-0035,D.BROOKLYN,PENDING,n/a,03/24/2025,1
+TASK-0018,B.Wayne,escalated,999,2025-03-28,one
